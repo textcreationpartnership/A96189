@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Welsh hubub, or the Unkennelling and earthing of Hugh Peters that crafty fox.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96189</idno>
+            <idno type="STC">Wing W1319</idno>
+            <idno type="STC">Thomason 669.f.26[17]</idno>
+            <idno type="STC">ESTC R210801</idno>
+            <idno type="EEBO-CITATION">99869558</idno>
+            <idno type="PROQUEST">99869558</idno>
+            <idno type="VID">163899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163899)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f26[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Welsh hubub, or the Unkennelling and earthing of Hugh Peters that crafty fox.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by P. Lillicrap,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire, in verse - "Her will speak truth, her scorns to tell you taks,".</note>
+                  <note>Annotation on Thomason copy: "October. 3."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peters, Hugh, 1598-1660 --  Poetry --  Early works to 1800.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163899:1" rendition="simple:additions"/>
+            <head>THE WELSH HUBUB, Or the Unkennelling and Earthing of HUGH PETERS That Crafty Fox.</head>
+            <l>HEr will ſpeak truth, her ſcorns to tell you tales,</l>
+            <l>Was gallant things, cal'd propheſies in <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>ales</hi>
+            </l>
+            <l>Truer then <hi>Mandivill,</hi> which do aſſure us</l>
+            <l>
+               <hi>Arthurus quandom Rex, &amp; Rex futurus:</hi>
+            </l>
+            <l>Law there; nay more, our <hi>Merlin</hi> farther goes</l>
+            <l>Deſcending to our times, and points at thoſe,</l>
+            <l>Who ſhall diſturb our peace, and raiſe ſtrange wars</l>
+            <l>Amongſt our ſelves, with horrid civil Jars,</l>
+            <l>Murder with rapine, and ſaith that <hi>Sais Kee</hi>
+            </l>
+            <l>
+               <hi>Shall plundra Kefill glace, and Kefill Dee,</hi>
+            </l>
+            <l>
+               <hi>From honeſt Taffy;</hi> that the Mole or want</l>
+            <l>Shall undermine us, and our Rights ſupplant:</l>
+            <l>This Mole Expoſitors with one conſent</l>
+            <l>Do call the long-taild ramping-Parliament:</l>
+            <l>That this is come to paſs none can deny</l>
+            <l>Though <hi>Cutterell mawr,</hi> himſelf were ſtanding by;</l>
+            <l>An other in his learned rimes doth ſay,</l>
+            <l>The Lions whelp is forc't to fly away,</l>
+            <l>And that the 7th of <hi>Ireland</hi> he ſhall be</l>
+            <l>Again reſtored unto his Royalty,</l>
+            <l>
+               <hi>Hall, Ned, Mall, Beſs, James,</hi> and two <hi>Charles, I</hi> wiſs</l>
+            <l>Make juſt up ſeaven; our <hi>Merlin</hi> doth not miſſe</l>
+            <l>And that in expreſs termes a <hi>Monk</hi> ſhall bring</l>
+            <l>And reinveſt great <hi>Charles</hi> our ſacred King:</l>
+            <l>And look you here now, is not this all true</l>
+            <l>Her will ſpeak one word more and ſo adieu</l>
+            <l>When all this is full-fiild, then draweth on</l>
+            <l>The time we call <hi>naw miſh Capiſteron;</hi>
+            </l>
+            <l>And whats that <hi>Hugh?</hi> I'le tell the tis a time</l>
+            <l>When ſuch as thou ſhall up a ladder clime,</l>
+            <l>Not unto <hi>Peter,</hi> Porter at heaven gate,</l>
+            <l>But there to fetch a ſwing or two, thy fate</l>
+            <l>Will have it ſo, and if it be thy chance</l>
+            <l>Amongſt the traitors for to lead the daunce,</l>
+            <l>Thou ſhalt not turn alone, there will be more</l>
+            <l>To follow the upon the ſelf ſame ſcore,</l>
+            <l>To traverſe ground, to change to turn and fling</l>
+            <l>and cut ſtrong Capers in a hempen ſtring;</l>
+            <l>I need not name them, <hi>Hugh,</hi> thou knowſt u'm well,</l>
+            <l>They'l make a luſty Cuſhing dance to hell:</l>
+            <l>But yet me thinks, it is not very fit</l>
+            <l>That men alone without ſome femal chit</l>
+            <l>Should make a Ball, ſend for thy deer <hi>Nan Hedge,</hi>
+            </l>
+            <l>For whom in former time thou waſt a pledge;</l>
+            <l>Though <hi>M<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſs</hi> the Goaler brought her back again</l>
+            <l>To <hi>wood-ſtreet</hi> Counter, and there lod'g the</l>
+            <l>If one will not ſuffice, then ſend for more</l>
+            <l>The world well knowes <hi>Hugh Peters</hi> loves a—</l>
+            <l>And though, his calling of the ſoul takes care,</l>
+            <l>Yet honeſt <hi>Hugh</hi> will give the fleſh a ſhare,</l>
+            <l>And teach his Auditors, how they may ſee,</l>
+            <l>And finde out Puſs ſitting in <hi>Majeſty:</hi>
+            </l>
+            <l>The ſurpleſs he abhors yet loves the ſmock,</l>
+            <l>And when he fails of that heel uſe the frock,</l>
+            <l>And ſo diſgui'ed he thought the world to mock</l>
+            <l>When Martyred <hi>Charles</hi> his head lay on the block:</l>
+            <l>If by theſe ſignes you cannot finde him out</l>
+            <l>Inſtead of <hi>Hu-bub</hi> I have ſent a ſcout,</l>
+            <l>Who now return'd, this narrative declares,</l>
+            <l>The ſubtle Fox ſome times is catcht with ſnares,</l>
+            <l>On friday twas, which ſome call venus day</l>
+            <l>Becauſe that Planet then doth bear the ſway</l>
+            <l>And is predominant, and hath a ſlight</l>
+            <l>A pretty one whither't be day or night</l>
+            <l>To couple loving things: the ſent growes hot,</l>
+            <l>And though our <hi>Hugo</hi> cunningly had got</l>
+            <l>Him ſelfe into a Quakers houſe cald <hi>Broad</hi>
+            </l>
+            <l>The fiteſt hoſte to harbour ſuch a—:</l>
+            <l>Murder will not lye hide, his haunt is found,</l>
+            <l>And ſteps are tract, without the help of hound;</l>
+            <l>
+               <hi>Hugh</hi> hunts not counter yet the wily whelp</l>
+            <l>Findes out a cunning ſhift himſelfe to help;</l>
+            <l>To bed he goes, where Mrs <hi>Peach</hi> lay in</l>
+            <l>The woman being green I hope no ſin</l>
+            <l>Was there commited, (weighty things in hand</l>
+            <l>Men upon coulo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs do not often ſtand)</l>
+            <l>The proverb ſaith, here lurking he lay ſtill</l>
+            <l>As ſafe as any theiſe lyes in a Mill</l>
+            <l>Oft in the pulpet he was wont to ſay</l>
+            <l>He envied much thoſe little doges which lay</l>
+            <l>In Ladies beds places far more fit</l>
+            <l>For men of luſty courage and choice wit,</l>
+            <l>He hath his wiſh; the officers forbear</l>
+            <l>In modeſty the child bed to draw near,</l>
+            <l>And fall to ſearch all the Roomes and places,</l>
+            <l>As tis the common uſe in ſuch like caſes,</l>
+            <l>The next houſe was <hi>John Dayes</hi> an upright Quaker</l>
+            <l>Becauſe a Cobler, and a great pertaker</l>
+            <l>With <hi>Hugh's</hi> deſines: whilſt each one beats his brains</l>
+            <l>To finde the fugitives, and ſpairs no pains</l>
+            <l>Scowring each corner with a Zealous eye</l>
+            <l>Werei't but as big where in a mouſe might lye:</l>
+            <l>
+               <hi>Hugh</hi> takes his time, and whilſt theyr all at gaze,</l>
+            <l>Makes an eſcape and hyes unto the <hi>Maze;</hi>
+            </l>
+            <l>His rapiere with his bible, and his coat</l>
+            <l>He leaves behinde, by which the ſearchers note</l>
+            <l>
+               <hi>Hugh</hi> cannot be far of, to <hi>Horſe way down</hi>
+            </l>
+            <l>Where one <hi>Nathaniell Mun,</hi> a man well known—</l>
+            <l>Had his aboad, a tape-maker by trade,</l>
+            <l>Though it were fitter far he halters made,</l>
+            <l>
+               <hi>Peters</hi> conveyes himſelfe; with open Cry</l>
+            <l>The chaſe is followed, Law-now by and by</l>
+            <l>They finde the horſe, <hi>Mun's</hi> wife ſhee keeps the dore</l>
+            <l>They thruſt, ſhee holds; I cannot tell you more,</l>
+            <l>But ſome do ſay ſhee had adown-right fall,</l>
+            <l>Yet I'le not ſay ſhee play'd at up tailes all,</l>
+            <l>Up ſtaires with full careirs the ſerjant goes</l>
+            <l>But at the dore he finds one to oppoſe,</l>
+            <l>And ſtoutly too, by which he aimes and right</l>
+            <l>Twas <hi>Hugh</hi> himſelfe, with all his main and might,</l>
+            <l>That ſtrenth is reenforc't with new ſupplies</l>
+            <l>For, Mr <hi>Arnold, Hobkins, Harris</hi> flyes</l>
+            <l>Unto the battry, who with doubled force</l>
+            <l>Compell proud <hi>Peter</hi> to retreat: Remorce</l>
+            <l>Now ſeazeth on him, and he faints for fear</l>
+            <l>All ſymptoms of a Quaker now appear,</l>
+            <l>With Impudence and braſen face he cryes</l>
+            <l>
+               <hi>I</hi> am not <hi>Peters,</hi> who ſo calls me lies</l>
+            <l>My name is <hi>Thomſon;</hi> if that it be ſo</l>
+            <l>Then <hi>Duplex nomen Duplex Nebulo:</hi>
+            </l>
+            <l>My action's good it'h law againſt you all</l>
+            <l>Who thus abuſe and wrongfully miſcall</l>
+            <l>An honeſt man, t'oth damage of his purſs</l>
+            <l>And infamy of him; which is far worſs.</l>
+            <l>With this arrives young <hi>Peach</hi> (whoſe wife lay in</l>
+            <l>Within which bed <hi>Hugh-Peters</hi> with out ſin</l>
+            <l>Had hid himſelfe) and being askt if he</l>
+            <l>Such Gloves, or Cane, as thoſe did ever ſee,</l>
+            <l>I did quoth he, and teſtifie I can,</l>
+            <l>They do belong unto that Gentelman,</l>
+            <l>Pointing to <hi>Hugo: Hugo</hi> in a fume</l>
+            <l>Denies it ſtoutly; but yet doth aſſume</l>
+            <l>The pair of gloves, which on his hands he drawes,</l>
+            <l>Thoſe bloody hands worſer then Tigers pawes,</l>
+            <l>I'le not deny but theſe are mine quoth he</l>
+            <l>Lyers ought t'have a preſent memorie,</l>
+            <l>Which <hi>Hugo</hi> faild of: <hi>Hugo</hi> muſt away,</l>
+            <l>The caſe is clear, he may not longer ſtay,</l>
+            <l>Then take him, <hi>Derick,</hi> Gentelmen I pray</l>
+            <l>Call me not <hi>Peters,</hi> leaſt upon the way</l>
+            <l>The incenſt many hearing of my name</l>
+            <l>Like Doctor <hi>Lamb</hi> ſhould ſtone me for the ſame</l>
+            <l>This granted <hi>Hugo,</hi> once again doth crave</l>
+            <l>That he ſome privat conference, may have</l>
+            <l>VVith Mirs. <hi>Mun,</hi> women are beſt pleaſ'd when</l>
+            <l>They meet in private with ſtrong dockt able men;</l>
+            <l>But that deni'd, the ſtallion being dry</l>
+            <l>After the ſports and heats of venery,</l>
+            <l>He calls for drink his ſpirits to revive,</l>
+            <l>It ſeemes theyr thirſty who do often—</l>
+            <l>Two quarts of rot-gut beer he ſwalowes up</l>
+            <l>Deſiring neither goblet horne or cup,</l>
+            <l>Though <hi>I</hi> ſuppoſe hornes he might have had</l>
+            <l>Haveing himſelfe, made many run horne mad.</l>
+            <l>Now to the Tower muſt poor <hi>Peters</hi> trudge,</l>
+            <l>Patience good <hi>Hugo</hi> tis in vain to grudge</l>
+            <l>Before the grave Lieutenent he is brought</l>
+            <l>VVhat change is this? would ever man have thought,</l>
+            <l>
+               <hi>Cromwells</hi> Confeſſor ſhould be forc't t'appeare,</l>
+            <l>Before a Royaliſt or Chavilier</l>
+            <l>As a Delinquent; yet tis true, tis done</l>
+            <l>Hee's under loyall Sir <hi>John Robinſon</hi>
+            </l>
+            <l>VVhere we will leave him to repent, if he</l>
+            <l>Be not too over grown in vilanie,</l>
+            <l>Once her remembers he did make a preach,</l>
+            <l>And in her ſermon did falſe doctrine teach</l>
+            <l>Saying, the VVelch were only good to be</l>
+            <l>Made hanging Clappers for a wooden tree:</l>
+            <l>But yet her cozen lives, and may in time</l>
+            <l>Behold <hi>Hugh Peters</hi> mounting up, and clime</l>
+            <l>The tritle tree, which ſtands by <hi>Hide parke</hi> pale,</l>
+            <l>For if her judgment do not highly fail</l>
+            <l>He hath deſerv'd it: thus the Fox you ſee</l>
+            <l>Is eartht; if you do ask how this can be,</l>
+            <l>Go to the <hi>Tower</hi> and you ſhall finde it true</l>
+            <l>Or elſe beleive me not, and when old <hi>Hugh</hi>
+            </l>
+            <l>From this frail world ſhall take his laſt farwel,</l>
+            <l>I'le be his frend and ring his paſſing bell,</l>
+            <l>With out a clapper not with out a roape</l>
+            <l>For that will be his end as moſt do hope</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>P. Lillicrap.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
